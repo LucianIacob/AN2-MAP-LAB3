@@ -1,0 +1,6 @@
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\Lab2-3_MAP\Lab2-3_MAP\bin\Debug\Lab2-3_MAP.exe.config
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\Lab2-3_MAP\Lab2-3_MAP\bin\Debug\Lab2-3_MAP.exe
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\Lab2-3_MAP\Lab2-3_MAP\bin\Debug\Lab2-3_MAP.pdb
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\Lab2-3_MAP\Lab2-3_MAP\obj\Debug\Lab2-3_MAP.csprojResolveAssemblyReference.cache
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\Lab2-3_MAP\Lab2-3_MAP\obj\Debug\Lab2-3_MAP.exe
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\Lab2-3_MAP\Lab2-3_MAP\obj\Debug\Lab2-3_MAP.pdb
